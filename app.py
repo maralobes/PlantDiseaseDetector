@@ -1,6 +1,7 @@
+# Importamos dependencias
+import io
 from fastapi import FastAPI, File, UploadFile
 from PIL import Image
-import io
 import numpy as np
 import tensorflow as tf
 from sklearn.preprocessing import LabelEncoder
