@@ -16,7 +16,7 @@ print("Clases del LabelEncoder:")
 print(label_encoder.classes_)
 
 # Ruta del modelo
-MODEL_PATH = 'models/modelo_DEP.keras'
+MODEL_PATH = 'models/modelo_DEP 92%.keras'
 model = tf.keras.models.load_model(MODEL_PATH)
 
 def preprocess_image(image: Image.Image):
