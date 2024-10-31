@@ -19,11 +19,7 @@ if image_load is not None:
     # Mostrar la imagen cargada
     st.image(image_load, caption="Imagen subida", use_column_width=True)
 
-disease_info = {
-    "Apple Black rot": "Es una enfermedad fúngica que afecta principalmente a los manzanos, provocando podredumbre en las frutas y manchas en las hojas.",
-    "Apple Cedar apple rust": "Es una enfermedad fúngica que provoca manchas anaranjadas en las hojas de los manzanos, común en zonas con enebros.",
-    "Pepper bell Bacterial spot": "Es una enfermedad bacteriana que afecta a los pimientos, causando manchas oscuras en las hojas y frutos."
-}
+from app import disease_info  #Cargar el diccionario de app.py
 
 if st.button('Analizar imagen'):
     if image_load:
