@@ -39,9 +39,9 @@ api_env/
 *.log
 
 # Modelos y datos grandes
-model/
-*.h5
-*.keras
+models/
+# *.h5
+# *.keras
 
 # Archivos de caché de Python
 __pycache__/
