@@ -42,7 +42,6 @@ api_env/
 models/
 # *.h5
 # *.keras
-*.ipynb
 
 
 # Archivos de caché de Python
