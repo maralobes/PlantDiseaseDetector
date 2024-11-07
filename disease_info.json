@@ -1,0 +1,32 @@
+{
+    "0": {
+        "name": "Cherry (including sour) Powdery mildew",
+        "description": {"en": "Powdery mildew on cherry is caused by Podosphaera clandestina.","es": "El moho polvoriento en las cerezas es causado por Podosphaera clandestina."},
+        "treatment": {"en": "A solution of 2-3 tablespoons of apple cider vinegar with a gallon of water can control powdery mildew.","es": "Una solución de 2-3 cucharadas de vinagre de sidra de manzana con un galón de agua puede controlar el moho polvoriento."}
+    },
+    "1": {
+        "name":"Cherry (including_sour) healthy",
+        "description": {"en": "The plant is healthy and free from diseases.","es": "La planta está saludable y libre de enfermedades."},
+        "treatment": {"en": "Maintain good agricultural practices.","es": "Mantenga buenas prácticas agrícolas."}
+    },
+    "2": {
+        "name":"Pepper bell Bacterial spot",
+        "description": {"en": "Bacterial spot is a devastating disease of pepper.","es": "La mancha bacteriana es una enfermedad devastadora del pimiento."},
+        "treatment": {"en": "Seed treatment with hot water can reduce bacterial populations.","es": "El tratamiento de semillas con agua caliente puede reducir las poblaciones bacterianas."}
+    },
+    "3": {
+        "name": "Pepper bell healthy",
+        "description": {"en": "The plant is healthy and free from diseases.","es": "La planta está saludable y libre de enfermedades."},
+        "treatment": {"en": "Maintain good agricultural practices.","es": "Mantenga buenas prácticas agrícolas."}
+    },
+    "4":{
+        "name":"Strawberry Leaf scorch",
+        "description": {"en": "Strawberry leaf scorch is caused by Diplocarpon earlianum.","es": "El escaldado de hoja de fresa es causado por Diplocarpon earlianum."},
+        "treatment": {"en": "Remove infected leaves and debris.","es": "Elimina las hojas y los desechos infectados."}
+    },
+    "5":{    
+        "name":"Strawberry healthy",
+        "description": {"en": "The plant is healthy and free from diseases.","es": "La planta está saludable y libre de enfermedades."},
+        "treatment": {"en": "Maintain good agricultural practices.","es": "Mantenga buenas prácticas agrícolas."}
+    }
+}
